@@ -1,3 +1,6 @@
-# 100-questions
+# 100-days
 
-Purpose of this notebook is to `investigate` bite size questions under 20 minutes and not more.
+Purposes of this repository are the following:
+
+- to `investigate` bite size questions under 20 minutes and not more
+- showcase kaggle competitions notebooks
