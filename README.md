@@ -1,3 +1,3 @@
-# bvng---100-questions
+# 100-questions
 
-Purpose of this notebook is to `investigate` byte size questions under 20 minutes and not more.
+Purpose of this notebook is to `investigate` bite size questions under 20 minutes and not more.
